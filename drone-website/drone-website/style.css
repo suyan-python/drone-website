@@ -3,7 +3,7 @@
 }
 body{
     margin: 18px 12vh;
-    background-color: rgb(255, 255, 255);
+    background-color: black;
    
 }
 nav{
@@ -22,7 +22,6 @@ nav{
             padding-left: 12px;
             font-size: 18px;
         }
-        
     }
 }
 
